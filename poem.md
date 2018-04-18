@@ -1,5 +1,5 @@
-# Daffodil :sunny:<br> #
-### By William Allingham<br> ###
+# Daffodil :sunny:<br> 
+### By William Allingham<br> 
 ***
 Gold tassel upon March's bugle-horn,<br>
 Whose blithe reveille blows from hill to hill<br>
