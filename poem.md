@@ -1,5 +1,5 @@
-# Daffodil :sunny:<br>
-### By William Allingham<br>
+# Daffodil :sunny:<br> #
+### By William Allingham<br> ###
 ---
 Gold tassel upon March's bugle-horn,<br>
 Whose blithe reveille blows from hill to hill<br>
@@ -19,4 +19,4 @@ To March's bugle-horn, Earth's blood is stirred.<br>
 <br>
 <br>
 ---
-Poem found on [Public Domain Poetry](https://http://www.public-domain-poetry.com/william-allingham/daffodil-1386/)
+Poem found on [Public Domain Poetry](www.public-domain-poetry.com/william-allingham/daffodil-1386/)
