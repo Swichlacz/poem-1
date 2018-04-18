@@ -1,6 +1,6 @@
 # Daffodil :sunny:<br> #
 ### By William Allingham<br> ###
----
+***
 Gold tassel upon March's bugle-horn,<br>
 Whose blithe reveille blows from hill to hill<br>
 And every valley rings **O Daffodil!**<br>
@@ -18,5 +18,5 @@ Or Oberon's: for hill and valley ring<br>
 To March's bugle-horn, Earth's blood is stirred.<br>
 <br>
 <br>
----
+***
 Poem found on [Public Domain Poetry](http://www.public-domain-poetry.com/william-allingham/daffodil-1386)
