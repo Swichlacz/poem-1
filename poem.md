@@ -18,4 +18,5 @@ Or Oberon's: for hill and valley ring<br>
 To March's bugle-horn, Earth's blood is stirred.<br>
 <br>
 <br>
+---
 Poem found on [Public Domain Poetry](https://http://www.public-domain-poetry.com/william-allingham/daffodil-1386/)
